@@ -1,0 +1,728 @@
+[
+	{
+		"title": "Fast Times at Ridgemont High",
+		"year": 1982,
+		"type": "film",
+		"role": "Dave / Brad's Bud"
+	},
+	{
+		"title": "Valley Girl",
+		"year": 1983,
+		"type": "film",
+		"role": "Randy"
+	},
+	{
+		"title": "Rumble Fish",
+		"year": 1983,
+		"type": "film",
+		"role": "Smokey"
+	},
+	{
+		"title": "Racing with the Moon",
+		"year": 1984,
+		"type": "film",
+		"role": "Nicky / Bud"
+	},
+	{
+		"title": "The Cotton Club",
+		"year": 1984,
+		"type": "film",
+		"role": "Vincent Dwyer"
+	},
+	{
+		"title": "Birdy",
+		"year": 1984,
+		"type": "film",
+		"role": "Al Columbato"
+	},
+	{
+		"title": "The Boy in Blue",
+		"year": 1986,
+		"type": "film",
+		"role": "Ned Hanlan"
+	},
+	{
+		"title": "Peggy Sue Got Married",
+		"year": 1986,
+		"type": "film",
+		"role": "Charlie Bodell"
+	},
+	{
+		"title": "Raising Arizona",
+		"year": 1987,
+		"type": "film",
+		"role": "H.I. McDunnough"
+	},
+	{
+		"title": "Moonstruck",
+		"year": 1987,
+		"type": "film",
+		"role": "Ronny Cammareri"
+	},
+	{
+		"title": "Vampire's Kiss",
+		"year": 1989,
+		"type": "film",
+		"role": "Peter Loew"
+	},
+	{
+		"title": "Time to Kill",
+		"year": 1989,
+		"type": "film",
+		"role": "Enrico Silvestri"
+	},
+	{
+		"title": "Never on Tuesday",
+		"year": 1989,
+		"type": "film",
+		"role": "Man in red sports car"
+	},
+	{
+		"title": "Wild at Heart",
+		"year": 1990,
+		"type": "film",
+		"role": "Sailor Ripley"
+	},
+	{
+		"title": "Fire Birds",
+		"year": 1990,
+		"type": "film",
+		"role": "Jake Preston"
+	},
+	{
+		"title": "Industrial Symphony No. 1: The Dream of the Brokenhearted",
+		"year": 1990,
+		"type": "film",
+		"role": "Heartbreaker"
+	},
+	{
+		"title": "Zandalee",
+		"year": 1991,
+		"type": "film",
+		"role": "Johnny Collins"
+	},
+	{
+		"title": "Honeymoon in Vegas",
+		"year": 1992,
+		"type": "film",
+		"role": "Jack Singer"
+	},
+	{
+		"title": "Amos & Andrew",
+		"year": 1993,
+		"type": "film",
+		"role": "Amos Odell"
+	},
+	{
+		"title": "Red Rock West",
+		"year": 1993,
+		"type": "film",
+		"role": "Michael Williams"
+	},
+	{
+		"title": "Deadfall",
+		"year": 1993,
+		"type": "film",
+		"role": "Eddie"
+	},
+	{
+		"title": "Guarding Tess",
+		"year": 1994,
+		"type": "film",
+		"role": "Doug Chesnic"
+	},
+	{
+		"title": "It Could Happen to You",
+		"year": 1994,
+		"type": "film",
+		"role": "Charlie Lang"
+	},
+	{
+		"title": "Trapped in Paradise",
+		"year": 1994,
+		"type": "film",
+		"role": "Bill Firpo"
+	},
+	{
+		"title": "A Century of Cinema",
+		"year": 1994,
+		"type": "film",
+		"role": "Himself"
+	},
+	{
+		"title": "Kiss of Death",
+		"year": 1995,
+		"type": "film",
+		"role": "Little Junior Brown"
+	},
+	{
+		"title": "Leaving Las Vegas",
+		"year": 1995,
+		"type": "film",
+		"role": "Ben Sanderson"
+	},
+	{
+		"title": "The Rock",
+		"year": 1996,
+		"type": "film",
+		"role": "Stanley Goodspeed"
+	},
+	{
+		"title": "Con Air",
+		"year": 1997,
+		"type": "film",
+		"role": "Cameron Poe"
+	},
+	{
+		"title": "Face/Off",
+		"year": 1997,
+		"type": "film",
+		"role": "Castor Troy / Sean Archer"
+	},
+	{
+		"title": "City of Angels",
+		"year": 1998,
+		"type": "film",
+		"role": "Seth"
+	},
+	{
+		"title": "Snake Eyes",
+		"year": 1998,
+		"type": "film",
+		"role": "Rick Santoro"
+	},
+	{
+		"title": "8MM",
+		"year": 1999,
+		"type": "film",
+		"role": "Tom Welles"
+	},
+	{
+		"title": "Bringing Out the Dead",
+		"year": 1999,
+		"type": "film",
+		"role": "Frank Pierce"
+	},
+	{
+		"title": "Gone in 60 Seconds",
+		"year": 2000,
+		"type": "film",
+		"role": "Memphis Raines"
+	},
+	{
+		"title": "The Family Man",
+		"year": 2000,
+		"type": "film",
+		"role": "Jack Campbell"
+	},
+	{
+		"title": "Captain Corelli's Mandolin",
+		"year": 2001,
+		"type": "film",
+		"role": "Captain Antonio Corelli"
+	},
+	{
+		"title": "Christmas Carol: The Movie",
+		"year": 2001,
+		"type": "film",
+		"role": "Jacob Marley"
+	},
+	{
+		"title": "Windtalkers",
+		"year": 2002,
+		"type": "film",
+		"role": "Joe Enders"
+	},
+	{
+		"title": "Sonny",
+		"year": 2002,
+		"type": "film",
+		"role": "Acid Yellow"
+	},
+	{
+		"title": "Adaptation",
+		"year": 2002,
+		"type": "film",
+		"role": "Charlie Kaufman / Donald Kaufman"
+	},
+	{
+		"title": "Matchstick Men",
+		"year": 2003,
+		"type": "film",
+		"role": "Roy Waller"
+	},
+	{
+		"title": "National Treasure",
+		"year": 2004,
+		"type": "film",
+		"role": "Benjamin Franklin Gates"
+	},
+	{
+		"title": "Lord of War",
+		"year": 2005,
+		"type": "film",
+		"role": "Yuri Orlov"
+	},
+	{
+		"title": "The Weather Man",
+		"year": 2005,
+		"type": "film",
+		"role": "David Spritz"
+	},
+	{
+		"title": "The Ant Bully",
+		"year": 2006,
+		"type": "film",
+		"role": "Zoc"
+	},
+	{
+		"title": "World Trade Center",
+		"year": 2006,
+		"type": "film",
+		"role": "John McLoughlin"
+	},
+	{
+		"title": "The Wicker Man",
+		"year": 2006,
+		"type": "film",
+		"role": "Edward Malus"
+	},
+	{
+		"title": "Ghost Rider",
+		"year": 2007,
+		"type": "film",
+		"role": "Johnny Blaze / Ghost Rider"
+	},
+	{
+		"title": "Next",
+		"year": 2007,
+		"type": "film",
+		"role": "Cris Johnson"
+	},
+	{
+		"title": "National Treasure: Book of Secrets",
+		"year": 2007,
+		"type": "film",
+		"role": "Benjamin Franklin Gates"
+	},
+	{
+		"title": "Bangkok Dangerous",
+		"year": 2008,
+		"type": "film",
+		"role": "Joe"
+	},
+	{
+		"title": "Knowing",
+		"year": 2009,
+		"type": "film",
+		"role": "John Koestler"
+	},
+	{
+		"title": "G-Force",
+		"year": 2009,
+		"type": "film",
+		"role": "Speckles / Mr. Yanshu"
+	},
+	{
+		"title": "Bad Lieutenant: Port of Call New Orleans",
+		"year": 2009,
+		"type": "film",
+		"role": "Terence McDonagh"
+	},
+	{
+		"title": "Astro Boy",
+		"year": 2009,
+		"type": "film",
+		"role": "Dr. Bill Tenma"
+	},
+	{
+		"title": "Kick-Ass",
+		"year": 2010,
+		"type": "film",
+		"role": "Damon Macready / Big Daddy"
+	},
+	{
+		"title": "The Sorcerer's Apprentice",
+		"year": 2010,
+		"type": "film",
+		"role": "Balthazar Blake"
+	},
+	{
+		"title": "Season of the Witch",
+		"year": 2011,
+		"type": "film",
+		"role": "Behmen"
+	},
+	{
+		"title": "Drive Angry",
+		"year": 2011,
+		"type": "film",
+		"role": "John Milton"
+	},
+	{
+		"title": "Seeking Justice",
+		"year": 2011,
+		"type": "film",
+		"role": "Will Gerard"
+	},
+	{
+		"title": "Trespass",
+		"year": 2011,
+		"type": "film",
+		"role": "Kyle Miller"
+	},
+	{
+		"title": "Ghost Rider: Spirit of Vengeance",
+		"year": 2011,
+		"type": "film",
+		"role": "Johnny Blaze / Ghost Rider"
+	},
+	{
+		"title": "Stolen",
+		"year": 2012,
+		"type": "film",
+		"role": "Will Montgomery"
+	},
+	{
+		"title": "The Croods",
+		"year": 2013,
+		"type": "film",
+		"role": "Grug Crood"
+	},
+	{
+		"title": "The Frozen Ground",
+		"year": 2013,
+		"type": "film",
+		"role": "Sgt. Jack Halcombe"
+	},
+	{
+		"title": "Joe",
+		"year": 2013,
+		"type": "film",
+		"role": "Joe Ransom"
+	},
+	{
+		"title": "Rage",
+		"year": 2014,
+		"type": "film",
+		"role": "Paul Maguire"
+	},
+	{
+		"title": "Outcast",
+		"year": 2014,
+		"type": "film",
+		"role": "Gallain"
+	},
+	{
+		"title": "Left Behind",
+		"year": 2014,
+		"type": "film",
+		"role": "Rayford Steele"
+	},
+	{
+		"title": "Dying of the Light",
+		"year": 2014,
+		"type": "film",
+		"role": "Evan Lake"
+	},
+	{
+		"title": "The Runner",
+		"year": 2015,
+		"type": "film",
+		"role": "Colin Pryce"
+	},
+	{
+		"title": "Pay the Ghost",
+		"year": 2015,
+		"type": "film",
+		"role": "Mike Lawford"
+	},
+	{
+		"title": "The Trust",
+		"year": 2016,
+		"type": "film",
+		"role": "Stone"
+	},
+	{
+		"title": "Dog Eat Dog",
+		"year": 2016,
+		"type": "film",
+		"role": "Troy"
+	},
+	{
+		"title": "Snowden",
+		"year": 2016,
+		"type": "film",
+		"role": "Hank Forrester"
+	},
+	{
+		"title": "USS Indianapolis: Men of Courage",
+		"year": 2016,
+		"type": "film",
+		"role": "Captain McVay"
+	},
+	{
+		"title": "Army of One",
+		"year": 2016,
+		"type": "film",
+		"role": "Gary Faulkner"
+	},
+	{
+		"title": "Arsenal",
+		"year": 2017,
+		"type": "film",
+		"role": "Eddie King"
+	},
+	{
+		"title": "Vengeance: A Love Story",
+		"year": 2017,
+		"type": "film",
+		"role": "John Dromoor"
+	},
+	{
+		"title": "Inconceivable",
+		"year": 2017,
+		"type": "film",
+		"role": "Brian"
+	},
+	{
+		"title": "Mom and Dad",
+		"year": 2017,
+		"type": "film",
+		"role": "Brent Ryan"
+	},
+	{
+		"title": "Mandy",
+		"year": 2018,
+		"type": "film",
+		"role": "Red Miller"
+	},
+	{
+		"title": "Looking Glass",
+		"year": 2018,
+		"type": "film",
+		"role": "Ray"
+	},
+	{
+		"title": "The Humanity Bureau",
+		"year": 2018,
+		"type": "film",
+		"role": "Noah Kross"
+	},
+	{
+		"title": "211",
+		"year": 2018,
+		"type": "film",
+		"role": "Mike Chandler"
+	},
+	{
+		"title": "Teen Titans Go! To the Movies",
+		"year": 2018,
+		"type": "film",
+		"role": "Kal-El / Clark Kent / Superman"
+	},
+	{
+		"title": "Spider-Man: Into the Spider-Verse",
+		"year": 2018,
+		"type": "film",
+		"role": "Peter Parker / Spider-Man Noir"
+	},
+	{
+		"title": "Between Worlds",
+		"year": 2018,
+		"type": "film",
+		"role": "Joe"
+	},
+	{
+		"title": "Love, Antosha",
+		"year": 2019,
+		"type": "film",
+		"role": "Narrator"
+	},
+	{
+		"title": "A Score to Settle",
+		"year": 2019,
+		"type": "film",
+		"role": "Frank Carver"
+	},
+	{
+		"title": "Colour Out of Space",
+		"year": 2019,
+		"type": "film",
+		"role": "Nathan Gardner"
+	},
+	{
+		"title": "Running with the Devil",
+		"year": 2019,
+		"type": "film",
+		"role": "The Cook"
+	},
+	{
+		"title": "Kill Chain",
+		"year": 2019,
+		"type": "film",
+		"role": "Araña"
+	},
+	{
+		"title": "Primal",
+		"year": 2019,
+		"type": "film",
+		"role": "Frank Walsh"
+	},
+	{
+		"title": "Grand Isle",
+		"year": 2019,
+		"type": "film",
+		"role": "Walter"
+	},
+	{
+		"title": "Jiu Jitsu",
+		"year": 2020,
+		"type": "film",
+		"role": "Wylie"
+	},
+	{
+		"title": "The Croods: A New Age",
+		"year": 2020,
+		"type": "film",
+		"role": "Grug Crood"
+	},
+	{
+		"title": "Prisoners of the Ghostland",
+		"year": 2021,
+		"type": "film",
+		"role": "Hero"
+	},
+	{
+		"title": "Willy's Wonderland",
+		"year": 2021,
+		"type": "film",
+		"role": "The Janitor"
+	},
+	{
+		"title": "Pig",
+		"year": 2021,
+		"type": "film",
+		"role": "Rob Feld"
+	},
+	{
+		"title": "The Unbearable Weight of Massive Talent",
+		"year": 2022,
+		"type": "film",
+		"role": "Nick Cage / Nicky Cage"
+	},
+	{
+		"title": "Butcher's Crossing",
+		"year": 2022,
+		"type": "film",
+		"role": "Miller"
+	},
+	{
+		"title": "The Old Way",
+		"year": 2023,
+		"type": "film",
+		"role": "Colton Briggs"
+	},
+	{
+		"title": "Renfield",
+		"year": 2023,
+		"type": "film",
+		"role": "Dracula"
+	},
+	{
+		"title": "The Flash",
+		"year": 2023,
+		"type": "film",
+		"role": "Clark Kent / Superman"
+	},
+	{
+		"title": "Sympathy for the Devil",
+		"year": 2023,
+		"type": "film",
+		"role": "The Passenger"
+	},
+	{
+		"title": "The Retirement Plan",
+		"year": 2023,
+		"type": "film",
+		"role": "Matt Robbins"
+	},
+	{
+		"title": "Dream Scenario",
+		"year": 2023,
+		"type": "film",
+		"role": "Paul Matthews"
+	},
+	{
+		"title": "Arcadian",
+		"year": 2024,
+		"type": "film",
+		"role": "Paul"
+	},
+	{
+		"title": "The Surfer",
+		"year": 2024,
+		"type": "film",
+		"role": "Surfer"
+	},
+	{
+		"title": "Longlegs",
+		"year": 2024,
+		"type": "film",
+		"role": "Dale Kobble / Longlegs"
+	},
+	{
+		"title": "Gunslingers",
+		"year": 2025,
+		"type": "film",
+		"role": "Ben"
+	},
+	{
+		"title": "The Carpenter's Son",
+		"year": 2025,
+		"type": "film",
+		"role": "The Carpenter"
+	},
+	{
+		"title": "The Prince",
+		"year": null,
+		"type": "film",
+		"role": ""
+	},
+	{
+		"title": "Madden",
+		"year": null,
+		"type": "film",
+		"role": "John Madden"
+	},
+	{
+		"title": "Fortitude",
+		"year": null,
+		"type": "film",
+		"role": ""
+	},
+	{
+		"title": "The Best of Times",
+		"year": 1981,
+		"type": "television",
+		"role": "Various"
+	},
+	{
+		"title": "The History of Swear Words",
+		"year": 2021,
+		"type": "television",
+		"role": "Host"
+	},
+	{
+		"title": "Spider-Man Noir",
+		"year": 2024,
+		"type": "television",
+		"role": "Spider-Man Noir"
+	},
+	{
+		"title": "Dead by Daylight",
+		"year": 2023,
+		"type": "video_game",
+		"role": "Himself"
+	}
+]

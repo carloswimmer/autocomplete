@@ -85,11 +85,11 @@ autocomplete/
 ### Phase 1: Database & Backend Setup (Day 1)
 - [x] Set up docker-compose.yml with PostgreSQL service
 - [x] Configure networking between containers
-- [ ] Add environment variables for database connection
-- [ ] Create PostgreSQL database schema
-- [ ] Create database migrations
-- [ ] Set up database initialization scripts
-- [ ] Set up database connection (pg or Prisma)
+- [x] Add environment variables for database connection
+- [x] Create PostgreSQL database schema
+<!-- - [ ] Create database migrations -->
+- [x] Set up database initialization scripts
+<!-- - [ ] Set up database connection (pg or Prisma) -->
 - [ ] Create Dockerfile for backend (with TypeScript compilation)
 - [ ] Set up Express server with TypeScript
 - [ ] Create search endpoint: `GET /api/search?query=xxx&limit=10`
