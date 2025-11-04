@@ -26,7 +26,7 @@ Build a reusable autocomplete component with backend API and infrastructure, bas
 ### Backend
 - **Runtime**: Node.js with Express
 - **Language**: TypeScript
-- **Database**: PostgreSQL with pg or Prisma ORM
+- **Database**: PostgreSQL with Drizzle ORM
 - **Search**: PostgreSQL full-text search (tsvector/tsquery) or ILIKE queries
 - **Type Safety**: TypeScript interfaces and types
 
@@ -83,8 +83,8 @@ autocomplete/
 ## Implementation Phases
 
 ### Phase 1: Database & Backend Setup (Day 1)
-- [ ] Set up docker-compose.yml with PostgreSQL service
-- [ ] Configure networking between containers
+- [x] Set up docker-compose.yml with PostgreSQL service
+- [x] Configure networking between containers
 - [ ] Add environment variables for database connection
 - [ ] Create PostgreSQL database schema
 - [ ] Create database migrations
